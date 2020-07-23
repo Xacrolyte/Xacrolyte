@@ -5,5 +5,5 @@
 
 NOTE: Top languages does not indicate the skill level or something like that, it is a github metric which determines the language which has the most code on the github profile.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xacrolyte&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xacrolyte&theme=radical&hide=html)
 ![Xacrolyte's github stats](https://github-readme-stats.vercel.app/api?username=xacrolyte&theme=radical)
