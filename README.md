@@ -6,8 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/xacrolyte?label=Follow&style=flat-square)](https://github.com/xacrolyte/?tab=follow)
 ---
 ## Hi there 👋,           
-I'm Aayush, a front-end developer at heart but a backend developer's padawan. Currently developing solutions via ML and AI based crunch.
-
+My name is Aayush and you can find me all over the internet by @xacrolyte. I am full stack developer currently engaged with data science and developing solutions via ML and AI based crunch.
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
 - 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
